@@ -8,6 +8,6 @@ Feature: As a customer I should be able to search for products
     When I search for Business Cards
     Then I will see a view of Business Cards
 
-  Scenario:
-    When I search for jnddndknd
-    Then I will not see any results
+  #Scenario:
+  #  When I search for jnddndknd
+  #  Then I will not see any results
